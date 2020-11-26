@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 3882808bf4d7bde4cbeaf19307afa17978af1612 Marc Lamberti <marclamberti@Marcs-MacBook-Pro.local> 1595959059 +0200	clone: from https://github.com/marclamberti/airflow-materials.git
+3882808bf4d7bde4cbeaf19307afa17978af1612 60ded2231606869f4b228a9d8c5069a48d6d163d Marc Lamberti <marclamberti@pc-79.home> 1596285326 +0200	commit: update cli_commands
+60ded2231606869f4b228a9d8c5069a48d6d163d 23d9221c9f68d91a12795cd4c9b1880ca4deb978 Marc Lamberti <marclamberti@Marcs-MacBook-Pro.home> 1597240386 +0200	commit: update airflow docker image
+23d9221c9f68d91a12795cd4c9b1880ca4deb978 9e746e007078089ad1d591ef34b866e0fd29e476 Marc Lamberti <marclamberti@marcs-macbook-pro-1.home> 1598566829 +0200	commit: update section 2 to 1.10.12
+9e746e007078089ad1d591ef34b866e0fd29e476 a24c5a1eab6f49c47fa70a50cdc90ff9804a7449 rossanomarcos <rossanomarcos@gmail.com> 1606423911 -0300	commit: first commit
+a24c5a1eab6f49c47fa70a50cdc90ff9804a7449 0000000000000000000000000000000000000000 rossanomarcos <rossanomarcos@gmail.com> 1606424011 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 a24c5a1eab6f49c47fa70a50cdc90ff9804a7449 rossanomarcos <rossanomarcos@gmail.com> 1606424011 -0300	Branch: renamed refs/heads/master to refs/heads/main
